@@ -1,8 +1,27 @@
 aid: asimov
 name: Asimov
-description: Asimov is a company surfaced as a portfolio company of a16z, dcvc, wing-venture-capital,
-  y-combinator and added to the API Evangelist network as a stub for enrichment. This profile is a lead
-  awaiting the enrichment pipeline.
+description: >-
+  Asimov is a synthetic biology company building an integrated platform for the
+  intelligent design of living systems. Its Edge Systems (CHO for biologics, LV
+  for cell therapies, AAV for gene therapies, and RNA for RNA medicines) combine
+  engineered mammalian host cells, a library of more than 1,000 validated genetic
+  parts, and cloud-based genetic design software so biopharma partners can design
+  and manufacture advanced therapeutics at higher titers and on faster timelines.
+  Backed by a16z, DCVC, Wing Venture Capital, and Y Combinator. Added to the API
+  Evangelist network as a company profile; no public developer API is currently
+  published.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://cdn.prod.website-files.com/631b859f947c1b7ed923e161/6391ebb616c34d3dafef930c_2K-render-compressed-1.webp
 url: https://raw.githubusercontent.com/api-evangelist/asimov/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -15,9 +34,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
+- Synthetic Biology
+- Biotechnology
+- Genetic Design
+- Cell Line Development
+- Gene Therapy
+- Bioinformatics
+- Life Sciences
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -26,4 +52,25 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: https://www.asimov.io/
+  url: https://www.asimov.com/
+- type: About
+  url: https://www.asimov.com/about
+- type: Blog
+  url: https://asimovbio.substack.com/
+- type: Support
+  url: https://www.asimov.com/contact
+- type: GitHubOrganization
+  url: https://github.com/asimovbio
+- type: TermsOfService
+  url: https://www.asimov.com/terms-of-service
+- type: PrivacyPolicy
+  url: https://www.asimov.com/privacy-policy
+- type: DomainSecurity
+  url: security/asimov-domain-security.yml
+- type: LLMsTxt
+  url: llms/asimov-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

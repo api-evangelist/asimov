@@ -1,0 +1,22 @@
+# Asimov
+
+> Asimov is a synthetic biology company building an integrated platform for the intelligent design of living systems. Its Edge Systems (CHO, LV, AAV, and RNA) combine engineered mammalian host cells, a library of more than 1,000 validated genetic parts, and cloud-based genetic design software so biopharma partners can design and manufacture advanced therapeutics. No public developer API is currently published.
+
+## Products
+- [CHO Edge System](https://www.asimov.com/): Host-cell + genetic-design system for biologics production.
+- [LV Edge System](https://www.asimov.com/): Lentiviral system for cell therapies.
+- [AAV Edge System](https://www.asimov.com/): Adeno-associated virus system for gene therapies.
+- [RNA Edge System](https://www.asimov.com/): System for RNA therapeutics candidate development.
+
+## Company
+- [Website](https://www.asimov.com/): Company home.
+- [About](https://www.asimov.com/about): Company overview and mission.
+- [Contact](https://www.asimov.com/contact): Get in touch / partnership inquiries.
+- [Careers](https://jobs.ashbyhq.com/asimov): Open roles.
+
+## Docs
+- [Engineering Blog](https://asimovbio.substack.com/): Asimov engineering and research writing.
+- [Press](https://press.asimov.com): News and press releases.
+- [GitHub](https://github.com/asimovbio): Asimov open source organization.
+- [Terms of Service](https://www.asimov.com/terms-of-service)
+- [Privacy Policy](https://www.asimov.com/privacy-policy)
