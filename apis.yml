@@ -10,6 +10,17 @@ description: >-
   Backed by a16z, DCVC, Wing Venture Capital, and Y Combinator. Added to the API
   Evangelist network as a company profile; no public developer API is currently
   published.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
