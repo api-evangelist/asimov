@@ -1,0 +1,29 @@
+# Front Door AI Index — asimov — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: asimov
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: www.asimov.com
+  final_host: www.asimov.com
+  ownership: own
+  owner: asimov
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 19
+  host_score: 19
+  density: 5.39
+  words: 3523
+  tiers:
+    agentic: 0
+    core: 19
+    model: 0
+  ambiguous: 6
+  top_terms:
+    AI: 15
+    artificial intelligence: 3
+    intelligence: 3
+    predictive: 3
+    machine learning: 1
